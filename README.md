@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Anwarus Soad 👋
 
-<!--
-**i-am-soad/i-am-soad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CSE student at Northern University of Business and Technology, Khulna, Bangladesh.
 
-Here are some ideas to get you started:
+I'm passionate about problem solving and core computer science fundamentals. I learn by practicing consistently and building things, and I share that work here on GitHub.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 About this profile
+
+This is where I keep my code, practice, and projects. My repositories grow as I do, so feel free to explore them to see what I'm working on.
+
+## 💼 Open to work
+
+I'm open to freelance opportunities and collaborations. If you have a project in mind or would like to work together, I'd be happy to talk.
+
+## 🤝 Let's connect
+
+Feel free to reach out through the email on my profile.
